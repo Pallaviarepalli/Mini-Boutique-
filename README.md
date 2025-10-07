@@ -32,5 +32,3 @@ Tech Stack:
 HTML5
 
 CSS3
-
-https://pallaviarepalli.github.io/Mini-Boutique-/
